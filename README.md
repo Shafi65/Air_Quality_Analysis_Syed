@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Air Quality Analysis in Dhaka
 
 ## Project Overview
@@ -86,3 +87,7 @@ For questions or feedback, contact: [shafi.hussain65@gmail.com]
 
 
 
+=======
+# Air_Quality_Analysis_Syed
+This project analyzes air quality data from Dhaka between 2017 and 2023. It includes visualizations and key analysis. The code can be used for various functionality.
+>>>>>>> 8eae6043a63d5721c04eb95b4aa8db36a0fe1af8
